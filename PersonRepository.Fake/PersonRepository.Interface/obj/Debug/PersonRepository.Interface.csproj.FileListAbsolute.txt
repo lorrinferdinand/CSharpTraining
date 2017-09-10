@@ -1,0 +1,11 @@
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csproj.CoreCompileInputs.cache
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csprojResolveAssemblyReference.cache
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csproj.CoreCompileInputs.cache
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb
