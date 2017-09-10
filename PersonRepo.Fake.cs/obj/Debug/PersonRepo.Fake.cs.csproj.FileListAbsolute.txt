@@ -1,0 +1,8 @@
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\bin\Debug\PersonRepo.Fake.cs.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\bin\Debug\PersonRepo.Fake.cs.pdb
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\bin\Debug\PersonRepository.Interface.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\bin\Debug\PersonRepository.Interface.pdb
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\obj\Debug\PersonRepo.Fake.cs.csprojResolveAssemblyReference.cache
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\obj\Debug\PersonRepo.Fake.cs.csproj.CoreCompileInputs.cache
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\obj\Debug\PersonRepo.Fake.cs.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\5-csharp-interfaces-m5-dynamic-exercise-files\before\DynamicLoading\PersonRepo.Fake.cs\obj\Debug\PersonRepo.Fake.cs.pdb
