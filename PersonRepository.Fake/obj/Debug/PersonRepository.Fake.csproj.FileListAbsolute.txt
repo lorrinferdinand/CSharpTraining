@@ -1,0 +1,8 @@
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.pdb
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.pdb
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csprojResolveAssemblyReference.cache
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csproj.CoreCompileInputs.cache
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.dll
+D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.pdb
