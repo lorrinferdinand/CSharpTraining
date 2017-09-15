@@ -23,5 +23,15 @@ namespace PeopleViewer.Test
             Assert.AreEqual(2, viewModel.People.Count());
 
         }
+
+        [TestMethod]
+        public void RepositoryType_OnCreation_ReturnsFakeRepositoryString()
+        {
+            //Arrange Act 
+            var viewModel = new MainViewModel();
+            string expectedString = "PersonRepository.Fake.FakeRepository";
+
+            Assert.AreEqual(expectedString, viewModel.RepositoryType);
+        }
     }
 }

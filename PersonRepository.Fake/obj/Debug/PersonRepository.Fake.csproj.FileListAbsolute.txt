@@ -6,3 +6,10 @@ D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoa
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csproj.CoreCompileInputs.cache
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.dll
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Fake\bin\Debug\PersonRepository.Fake.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Fake\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.csprojResolveAssemblyReference.cache
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Fake\obj\Debug\PersonRepository.Fake.pdb

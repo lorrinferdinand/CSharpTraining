@@ -9,3 +9,8 @@ D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoa
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csproj.CoreCompileInputs.cache
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Interface\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\PersonRepository.Interface\obj\Debug\PersonRepository.Interface.csprojResolveAssemblyReference.cache

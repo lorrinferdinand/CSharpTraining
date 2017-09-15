@@ -16,3 +16,11 @@ D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoa
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\People.Service\obj\Debug\People.Service.csproj.CoreCompileInputs.cache
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\People.Service\obj\Debug\People.Service.dll
 D:\Current\2017\2017_Training\CSharpTrainingProjects\CSharpInterfaces\DynamicLoading\People.Service\obj\Debug\People.Service.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\bin\People.Service.dll.config
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\bin\People.Service.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\bin\People.Service.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\bin\PersonRepository.Interface.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\bin\PersonRepository.Interface.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\obj\Debug\People.Service.csprojResolveAssemblyReference.cache
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\obj\Debug\People.Service.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\People.Service\obj\Debug\People.Service.pdb
