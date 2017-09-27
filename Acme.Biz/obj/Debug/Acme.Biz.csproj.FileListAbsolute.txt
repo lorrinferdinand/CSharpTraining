@@ -1,0 +1,7 @@
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Biz.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Acme.Biz\bin\Debug\Acme.Common.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.csprojResolveAssemblyReference.cache
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Acme.Biz\obj\Debug\Acme.Biz.pdb
