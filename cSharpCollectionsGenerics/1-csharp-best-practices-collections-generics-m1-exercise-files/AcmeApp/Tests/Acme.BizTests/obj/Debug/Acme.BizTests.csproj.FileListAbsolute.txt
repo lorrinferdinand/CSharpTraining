@@ -1,0 +1,10 @@
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.BizTests.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Biz.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\bin\Debug\Acme.Common.pdb
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.csprojResolveAssemblyReference.cache
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.dll
+C:\Users\lorri\Source\Repos\CSharpTraining\cSharpCollectionsGenerics\1-csharp-best-practices-collections-generics-m1-exercise-files\AcmeApp\Tests\Acme.BizTests\obj\Debug\Acme.BizTests.pdb
